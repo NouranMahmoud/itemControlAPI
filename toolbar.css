@@ -11,6 +11,10 @@
   background-color: blue;
 }
 
+.white {
+    background-color: white;
+}
+
 .active {
   background-color: yellow;
 }
